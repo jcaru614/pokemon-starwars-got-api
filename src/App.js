@@ -2,7 +2,7 @@ import React from 'react';
 import { Router } from '@reach/router';
 import Pokemon from './components/Pokemon'
 import Starwars from './components/Starwars'
-import Got from './components/Got';
+import Got from './components/GOT';
 
 
 function App() {
